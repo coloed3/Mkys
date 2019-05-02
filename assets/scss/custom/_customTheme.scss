@@ -1,0 +1,47 @@
+.title-heading{
+	font-family: 'Oswald', sans-serif; 
+	h1{
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-size: 4rem;
+	}
+
+}
+
+.section-two-heading{
+	font-family: 'Oswald', sans-serif;
+	h1{
+		font-size: 3rem;
+		font-weight: 900;
+		text-transform: lowercase;	
+		letter-spacing: 1px;
+	}
+
+}
+
+.cards-icon-circle{
+	background-color: #f2f2f2;
+	width: 100px;
+	padding: 10px;
+	margin: 0 auto;
+	border-radius: 50%;
+	h1{
+		margin: 10px;
+	}
+}
+
+.card{
+ padding: 30px;
+ p{
+ 	margin-top: 10px;
+ }
+}
+
+.cards-icon-title{
+	h4{
+		font-family: 'Oswald', sans-serif;
+		letter-spacing: 1px;
+		text-transform: uppercase;	
+		font-weight: 800;
+	}
+}
