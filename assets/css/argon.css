@@ -18777,3 +18777,21 @@ html:not([dir='rtl']) .noUi-horizontal .noUi-handle
     letter-spacing: 1px;
     text-transform: uppercase;
 }
+
+.title-heading h1
+{
+    font-size: 4rem; 
+    font-weight: 800;
+}
+
+#array
+{
+    font-weight: 100;
+
+    display: inline-block;
+}
+
+.liteText
+{
+    font-size: 3rem;
+}
